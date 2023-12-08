@@ -20,5 +20,9 @@
     "mongoose": "^5.13.21",
     "passport": "^0.7.0",
     "passport-jwt": "^4.0.1"
+  },
+  "devDependencies": {
+    "@angular-devkit/core": "^17.0.6",
+    "@angular/cli": "^1.6.0"
   }
 }
